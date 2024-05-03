@@ -1,0 +1,15 @@
+.wrapper {
+  display: grid;
+  gap: 24px;
+  grid-template: repeat(2, auto) / 240px;
+  height: 100%;
+  place-content: center;
+}
+
+.button {
+  background: #007637;
+  color: #fff;
+  font-size: 1.6rem;
+  font-weight: 700;
+  padding: 12px 0;
+}

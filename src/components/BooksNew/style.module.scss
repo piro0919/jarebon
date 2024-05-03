@@ -1,0 +1,20 @@
+.wrapper {
+  display: grid;
+  height: 100%;
+}
+
+.sentenceBlock,
+.textarea {
+  border: 4px solid #007637;
+  font-size: 1.8rem;
+  padding: 12px;
+  resize: none;
+  writing-mode: vertical-rl;
+}
+
+.button {
+  background: #fad182;
+  border-radius: 50dvmax;
+  height: 24px;
+  width: 24px;
+}
