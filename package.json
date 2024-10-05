@@ -20,8 +20,8 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "@typescript-eslint/eslint-plugin": "7.18.0",
-    "@typescript-eslint/parser": "7.18.0",
+    "@typescript-eslint/eslint-plugin": "8.8.0",
+    "@typescript-eslint/parser": "8.8.0",
     "@uphold/commitlint-config": "1.1.1",
     "commitlint-plugin-tense": "1.0.2",
     "eslint": "^8",
@@ -57,7 +57,7 @@
   "name": "jarebon",
   "overrides": {
     "eslint-config-next": {
-      "@typescript-eslint/parser": "7.18.0"
+      "@typescript-eslint/parser": "8.8.0"
     },
     "stylelint-css-modules-no-global-scoped-selector": {
       "stylelint": "16.9.0"
