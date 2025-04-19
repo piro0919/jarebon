@@ -57,7 +57,7 @@
   "name": "jarebon",
   "overrides": {
     "eslint-config-next": {
-      "@typescript-eslint/parser": "8.29.1"
+      "@typescript-eslint/parser": "8.30.1"
     },
     "stylelint-css-modules-no-global-scoped-selector": {
       "stylelint": "16.18.0"
