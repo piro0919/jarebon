@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@hookform/error-message": "2.0.1",
-    "i18next": "25.8.4",
+    "i18next": "25.8.7",
     "next": "15.5.12",
     "nextjs-toploader": "3.9.17",
     "react": "^19.0.0",
